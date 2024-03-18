@@ -1,0 +1,46 @@
+Author : Harshvardhan Singh
+ID     : 2201CS92
+course : CS210
+
+Declaration of Authorship
+
+I hereby claim the authorship CS210 mini project and supported materials emu.cpp, asm.cpp, mytests, project report,
+and makefile.txt. All sources used are properly cited, and any assistance received is acknowledged.This work has not been submitted elsewhere.
+
+Evidence to claims and genuinity of assembler and emulator is given in project reports and testprograms.
+
+According to the marking scheme, I believe/claim that I have successfully completed following tasks-
+
+  General marks 
+       1.Correctly submitted source files with your name in them. All files should have your name 
+         and user id at the start, along with a declaration of authorship. * (and must) 
+       2.Compiles without error when being pedantic (g++ -pedantic). * 
+       3.Compiles without warnings (g++ -pedantic -W -Wall -Wpointer-arith -Wwrite-strings -Wstrict-prototypes). 
+       4.Consistent and sensible formatting with sensible program structure. 
+       5. Sensible variable, function & type names with explanatory comments.* (very important 
+         issue) 
+
+The assembler part (65%) 
+       1. Either uses a single process/routine for both passes, or reads into an internal form on first 
+         pass.* (you can only do one of these, not both) 
+       2. Diagnoses label errors (duplicate, missing, etc). * 
+       3. Produces listing file (at least memory dump). * 
+       4.Advanced listing file. 
+       5. Has a table of instruction names and expected operands. * 
+       6. Assembles test program. * 
+       7.Additional test programs (for both failure and success, include brief explanation as 
+         comments within each test file). * 
+       8.Implements and demonstrates the instruction SET. 
+
+Bubble sort program, 
+       1.Assembles.*  
+       2. Works. * 
+
+The emulator part (25%) 
+       1. Loads object file. 
+       2. Produces memory dump. 
+       3. Executes test program. 
+       4. Detects errant programs. 
+
+Test Cases (20%) 
+       1.Multiple algorithms as test case using SIMPLE instruction set

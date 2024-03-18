@@ -1,0 +1,2 @@
+ Assembling Stopped with errors
+ error at line 13 - ldl 0xghijkl -  NOT a valid number( also only one operand is expected) 

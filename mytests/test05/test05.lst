@@ -1,0 +1,4 @@
+00000000  00000c00  ldc label1
+00000001  00001e01  adc label2
+0000000c            label1:
+0000001e            label2:

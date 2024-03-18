@@ -1,0 +1,17 @@
+
+for compiling assembler/emulator-
+                            g++ asm.cpp -o asm.exe
+                            g++ emu.cpp -o emu.exe
+            or              g++ -pedantic asm.cpp -o asm.exe  
+    	    or		    g++ -pedantic emu.cpp -o emu.exe      
+
+
+for assembling a asm file-
+                                
+                            ./asm.exe <filename>.asm
+            or              ./asm.exe <path to file/filename>.asm
+
+
+for running a object file-
+                            ./emu.exe <filename>.obj
+            or              ./emu.exe <path to file/filename>.obj
