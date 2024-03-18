@@ -38,13 +38,7 @@ This project serves as a course project for a university course in assembly lang
     cd 2-pass-assembler
     ```
 
-3. Build the assembler and emulator:
-
-    ```
-    make
-    ```
-
-4. Run the assembler:
+3. Complie & Run the assembler:
 
     running scripts are given in  Makefile.txt
 
