@@ -14,7 +14,7 @@ This repository contains a 2-pass assembler implemented in C++ for a simple inst
 
 ## Introduction
 
-This project serves as a course project for a university course in assembly language programming and computer architecture. The aim is to design and implement a 2-pass assembler capable of translating assembly language programs written for a simple accumulator-based machine into machine code, and subsequently, an emulator to execute the generated machine code.
+This project serves as a CS210 course (assembly language programming and computer architecture) project under Prof. Jimson Matthew. The aim is to design and implement a 2-pass assembler capable of translating assembly language programs written for a simple accumulator-based machine into machine code, and subsequently, an emulator to execute the generated machine code.
 
 ## Features
 
